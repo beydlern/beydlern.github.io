@@ -20,4 +20,8 @@ Using FreeCodeCamp, a wonderful non-profit organization with interactive learnin
 
 ## Analysis
 
-JavaScript is the first web-based language that I have formally studied, then with respect to general-purpose programming languages (e.g. C++, C, Java) the fact that it is dynamically typed makes it more accessible, but easier to mess up than the statically typed languages as variable types are determined at runtime rather than compile time.
+JavaScript is the first web-based language that I have formally studied, then with respect to general-purpose programming languages (e.g. C++, C, Java) the fact that it is dynamically typed makes it more accessible, but easier to mess up than the statically typed languages as variable types are determined at runtime rather than compile time. From a software engineering perspective, JavaScript is an excellent tool due to its intuitiveness and accessibility as it is flexible and is dynamic. In addition, in the recent years, ES6 (ECMAScript), was a major revision to JavaScript that implemented many features such as template literals, classes, block-scoped declaration of variables, and many more. Learning these interesting features has opened my mind to the endless possibilities that JavaScript can be used throughout the web.
+
+## Learning Style
+
+In my ICS 314 class, we are using a novel style of learning known as athletic software engineering, where we do workouts of the day (WODs) multiple times a week where each WOD is a programming *exercise*. This almost daily programming helps to mold my mind and shape it from a blob of clay, a rudimentary understanding of web programming and software development, to a fully-fledged molded form, which evidently corresponds to a great understanding. This style of learning is definitely stressful as it is timed, but it is also enjoyable as it *works out* the mind and improves my programming skills. Personally, I think that this style of learning is innovative and great.
