@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "JavaScript Impression"
+title: "JavaScript Reflection"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-18
 published: true
