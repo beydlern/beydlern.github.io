@@ -14,7 +14,7 @@ labels:
 
 *The human mind is a journey from clay to a complete molded form.*
 
-## Impressions
+## Reflection
 
 Using FreeCodeCamp, a wonderful non-profit organization with interactive learning web platforms to learn to code in different languages for free, I learned the fundamentals of JavaScript: objects, looping, functions, variables, conditional logic, and arrays. The syntax of the language is relaxed and it is *weakly typed* in the sense that variables can hold any type of object, which in itself is a double-edged sword. Furthermore, an interesting and core concept of the language is that functions are first class meaning that functions behave like any other object and can be assigned to a variable: functions can be used as arguments in other functions, you can store functions as dictionary values, or return a function from another function, etc. I believe that these core concepts allow beginner and advanced programmers to intuitively program in JavaScript.
 
