@@ -8,7 +8,7 @@ published: true
 labels:
   - C#
   - Unity
-summary: "Recreation of an obstacle game in Unity."
+summary: "An obstacle course game in Unity."
 ---
 
 <img class="img-fluid" src="../img/unity/obstaclecoursepart1.PNG">
