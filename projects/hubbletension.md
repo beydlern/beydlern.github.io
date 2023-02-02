@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hubbletension/acceleratinguniverse.jpg
+image: img/hubbletension/cosmologypicture.jpg
 title: "Hubble Tension"
 date: 2022
 published: true
