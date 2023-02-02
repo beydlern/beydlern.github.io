@@ -1,12 +1,12 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/bankdatabaseapp/bankdatabaseiconpicture.png
 title: "Bank Database Application"
 date: 2022
 published: true
 labels:
-  - Lisp
+  - C++
   - GitHub
 summary: "A bank database application I made for ICS 212."
 ---
@@ -17,4 +17,4 @@ The goal of this project was to create a bank database application. I completed 
 
 <img class="img-fluid" src="../img/bankdatabaseapp/bankdatabaseapp.png">
 
-The application's [source code](https://www.roblox.com/home) was coded in C++ and it has been thoroughly tested with a multitude of rigorous test cases to ensure stability and quality. However, outside of the academic environment, the user interface is rudimentary as it uses a general purpose language and the database is not secure.
+The application's [source code](https://github.com/beydlern/beydlern.github.io/tree/main/code/bankdatabaseapp) was coded in C++ and it has been thoroughly tested with a multitude of rigorous test cases to ensure stability and quality. However, outside of the academic environment, the user interface is rudimentary as it uses a general purpose language and the database is not secure.
