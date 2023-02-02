@@ -15,7 +15,7 @@ summary: "A research project funded by UROP."
 
 ## Overview
 
-The goal of this project was to analyze the Hubble Tension, a disagreement of the value of the Hubble constant, and investigate a method of obtaining the Hubble constant. I completed this project in the fall 2022 semester with professor [Dr. Rubin](https://www.phys.hawaii.edu/profile/David-Rubin/) and it was funded by [UROP](https://manoa.hawaii.edu/undergrad/urop/). 
+The goal of this project was to analyze the Hubble Tension, a disagreement of the value of the Hubble constant, and investigate a method of obtaining the Hubble constant. I completed this project in the fall 2022 semester with professor [Dr. Rubin](https://www.phys.hawaii.edu/profile/David-Rubin/) and it was funded by [UROP](https://manoa.hawaii.edu/undergrad/urop/), however more work for the project is still underway. 
 
 ## Introduction
 
