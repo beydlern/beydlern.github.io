@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflection: Smart Questions"
+title: "Intelligent Inquiry"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-26
 published: true
