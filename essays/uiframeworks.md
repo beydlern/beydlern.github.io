@@ -11,7 +11,7 @@ labels:
   - Bootstrap 5
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/uiframework/islandsnow.PNG">
+<img width="400px" class="rounded float-start pe-4" src="../img/uiframework/islandsnow.PNG">
 
 *[Why reinvent the wheel?](https://en.wikipedia.org/wiki/Reinventing_the_wheel)*
 
