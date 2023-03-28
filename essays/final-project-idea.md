@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Final Project Idea"
+title: "Student Marketer"
 date: 2023-3-28
 published: true
 labels:
