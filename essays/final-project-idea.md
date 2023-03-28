@@ -16,7 +16,22 @@ labels:
 
 ## Approach
 
-text
+Each student can publish and edit their page, a profile, which consists of their interests, skills, a succinct description of themselves, their approximate location, contact information, a time period of availability for work, and a link to their professional portfolio page.
+
+Admins may edit each student page to remove inappropriate content new categories of skills.
+
+Companies looking for students may login and contact students who pique their interest.
+
+Some mockup pages include:
+
+- Landing page
+- Student home page.
+- Company home page
+- Admin home page
+- Student profile page.
+- Browse students by skill, geographic preference, etc via a search option.
+
+
 
 ## Use case ideas
 
