@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Student Marketer"
+title: "Intern Me"
 date: 2023-3-28
 published: true
 labels:
