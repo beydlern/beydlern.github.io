@@ -35,8 +35,12 @@ Some mockup pages include:
 
 ## Use case ideas
 
-text
+New user goes to landing page, logs in, gets home page, and sets up profile. (How do they learn how system works? To remedy this, have a tutorial page or a tutorial on the landing page)
+Admin goes to landing page, logs in, gets home page, and edits site.
+Student goes to landing page, logs in, and they are told a message if a company has clicked on their contact button. 
+Company goes to landing page, logs in, and selects students to contact.
 
 ## Beyond the basics
 
-text
+After implementing the basic functionality, here are ideas for more advanced features:
+- Add a section for the opposite: companies displayed and students may contact them.
