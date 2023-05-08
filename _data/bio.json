@@ -1,0 +1,55 @@
+{
+  "basics": {
+    "name": "Nicholas Beydler",
+    "label": "Student",
+    "picture": "https://github.com/beydlern.png",
+    "email": "beydlern@hawaii.edu",
+    "phone": "949-324-6358",
+    "website": "https://beydlern.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "beydlern", "url": "http://github.com/beydlern" },
+      { "network": "linkedin", "username": "nicholasbeydler", "url": "https://www.linkedin.com/in/nicholas-beydler/" }
+    ]
+  },
+  "interests": [
+    { "name": "Machine Learning" },
+    { "name": "Computational Physics" },
+    { "name": "Game Design" },
+    { "name": "Software Engineering" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "HTML", "CSS", "MATLAB", "Bootstrap", "React", "Meteor" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Windows" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2020",
+      "endDate": "Present",
+      "courses": ["MATH 252A : Accelerated Calculus II", "PHYS 170 : General Physics I", "PHYS 170L : General Physics I Laboratory", "PHYS 272 : General Physics II", "PHYS 272L : General Physics II Lab", "ICS 111 : Intro to Computer Science I", "MATH 253A : Accelerated Calculus III", "MATH 307 : Linear Alg & Diff Eq", "PHYS 274 : General Physics III", "ICS 141 : Discrete Math for CS I", "ICS 211 : Intro to Computer Science II", "PHYS 274L : General Physics III Laboratory", "ICS 241 : Discrete Math for CS II", "ICS 212 : Program Structure", "ICS 311 : Algorithms", "PHYS 310 : Theoretical Mechanics", "PHYS 350 : Electricity and Magnetism"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dean's List",
+      "date": "2020-Present",
+      "awarder": "University of Hawaiʻi at Mānoa",
+      "summary": "Undergraduate students are awarded the Dean’s List distinction if they: (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade, and (2) do not receive grades of W, I, F, or NC for that semester."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
