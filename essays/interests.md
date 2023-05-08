@@ -16,7 +16,7 @@ labels:
 
 ## Adrift
 
-When I graduated highschool, I found myself with no real purpose in life, so I chose to follow the normal dreams of others; applying for college, graduating college, and working in industry. I did not know what major I wanted to study, so I initially chose liberal arts, but then quickly realized it seemed unfulfilling and I felt further adrift.
+When I graduated high school, I found myself with no real purpose in life, so I chose to follow the normal dreams of others; applying for college, graduating college, and working in industry. I did not know what major I wanted to study, so I initially chose liberal arts, but then quickly realized it seemed unfulfilling and I felt further adrift.
 
 ## Purpose
 

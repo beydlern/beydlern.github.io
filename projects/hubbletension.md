@@ -25,7 +25,7 @@ The Hubble constant, H_0, is a quantity that quantitatively describes the expans
 
 ## Importance
 
-The tension is between the “early” and “late” universe measurements, where the “early” universe measurements refers to the measurements of the Hubble constant using the cosmic microwave background method, and the “late” universe measurements refer to measurements of the Hubble constant obtained through methods of astronomical observation. To answer the question directly, the early and late universe measurements have arrived at high-precision values of the Hubble constant, so there must be something wrong like either side mismeasuring something or maybe we require a revision of our understanding of physics and the cosmic evolution of the universe, and this is the importance of the Hubble tension.
+The tension is between the “early” and “late” universe measurements, where the “early” universe measurements refers to the measurements of the Hubble constant using the cosmic microwave background method, and the “late” universe measurements refer to measurements of the Hubble constant obtained through methods of astronomical observation. To answer the question directly, the early and late universe measurements have arrived at high-precision values of the Hubble constant, so there must be something wrong like either side measuring something incorrectly or maybe we require a revision of our understanding of physics and the cosmic evolution of the universe, and this is the importance of the Hubble tension.
 
 ## Method
 
