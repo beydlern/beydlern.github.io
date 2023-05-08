@@ -10,6 +10,8 @@ labels:
   - Foundation
 ---
 
+<img width="200px" class="rounded float-start pe-4" src="../img/codingstandard.png">
+
 ## Belief
 
 Coding standards are often thought of as a tedious way to format your code akin to the feeling of forgetting a punctuation mark when writing in a speaking language. However, I believe that this notion is harmful to the development of one's software engineering skills as coding standards possess much more than simple syntax error checking. To elucidate, coding standards provide a way for a user to accurately learn the structure and manner of writing code, but if the user is a novice in the language, then it allows him to learn the language through correct syntax and semantics. 
