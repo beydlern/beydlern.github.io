@@ -24,5 +24,6 @@ Flatemate Finder is a team project for ICS 314: Software Engineering. The [five 
 - Dynamically display the total number of users
 - Display suggestions on the admin landing page
 - Create a contact us page
+- Refining the Landing Page
 
 Visit the [Github page](https://flatmatefinder.github.io/) to take a further look into our project.
