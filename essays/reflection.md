@@ -16,7 +16,7 @@ labels:
 
 ## Class Succession
 
-This class, ICS 414 Software Engineering 2, is the sequel to ICS 314 Software Engineering 1. The knowledge and coding practices acquired in ICS 314 carried over to ICS 414, which manifested itself throughout the independent-style project management and development nature of this course. Working in an eight-man team has bolstered my coding collaboration skills through efficient task specification through clear issue descriptions and a consistent medium for communication, Discord.
+This class, ICS 414 Software Engineering 2, is the sequel to ICS 314 Software Engineering 1. The knowledge and coding practices acquired in ICS 314 carried over to ICS 414, which manifested itself throughout the independent-style project management and development nature of this course. Working in an eight-person team has bolstered my coding collaboration skills through efficient task specification through clear issue descriptions and a consistent medium for communication, Discord.
 
 ## Project Management
 
